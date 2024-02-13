@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(0, 0, 0);
+   
+}
+
+.ABOUT, .FACEBOOK, .YOUTUBE{
+    color: white;
+    font-size: smaller;
+    transition: linear 0.5s ;
+
+}
+.ABOUT:hover, .FACEBOOK:hover, .YOUTUBE:hover{
+    color: aqua;
+    font-size: larger;
+}
+
+.nav-bar{
+    color: white;
+    word-spacing: 20px;
+    margin-top: 25px;
+    margin-left: 200px;
+}
+
+.contact{
+    background-color: aqua;
+    margin-left: 500px;
+    color: black;
+    border-color: aqua;
+    border-radius: 2px;
+    width: 100px;
+    height: 35px;
+    transition: linear 0.5s ;
+}
+
+.contact:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+    
+    
+}
+
+.content{
+    color: white;
+    float: inline-end;
+    margin-top: 100px;
+    text-align: left;
+    margin-right: 220px;
+    margin-top: 150px;
+}
+.top{
+    color: aqua;
+    line-height: 0;
+}
+.mid{
+    font-size: 50px;
+    line-height: 0;
+   font-family: sans-serif;
+}
+.Dev{   
+    color: aqua;
+    font-size: 50px;
+    line-height: 0;
+    font-family:  Courier;
+}
+.load{
+   color: aqua;
+   border-color: aqua;
+   background-color: rgba(0,0,0,0.5);
+   line-height: 25px;
+   transition: linear 0.5s ;
+
+}
+.load:hover{
+    border-color:aqua;
+    color: black;
+    background-color: aqua;
+}
+.pic{
+    margin-top: 130px;
+    margin-left: 220px;
+}
+.boy{
+    margin-left: 250px  ;
+}
